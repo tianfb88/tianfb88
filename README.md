@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Phebe Tianfei Bi (@tianfb88)
-- 👀 I’m interested in Information Architecture and Cybersecurity 
+- 👀 I’m interested in Information Assurance and Cybersecurity 
 - 🌱 I’m a junior student at the University of Washingoton and currently learning client side development
 - 💞️ Reach out to me at tianfb@uw.edu
 
